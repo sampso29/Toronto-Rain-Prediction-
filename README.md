@@ -1,6 +1,6 @@
 # Toronto-Rain-Prediction-
 
-Have you ever looked at the weather forecast the day before traveling for vacation so that you can pack the relevant clothing needed only for the forecast to be wrong? Imagine rerading a forecast that states sunny skies, only to observe rain or snow the following day. Would you be caught off guard without an umbrella or snow pants? In the following project we seek to find a better way to forecast weather, minimizing the chances of a person to be caught off guard, unprepared for the weather of a given day.  
+Have you ever looked at the weather forecast the day before traveling for vacation so that you can pack the relevant clothing needed only for the forecast to be wrong? Imagine reading a forecast that states sunny skies, only to observe rain or snow the following day. Would you be caught off guard without an umbrella or snow pants? In the following project we seek to find a better way to forecast weather, minimizing the chances of a person to be caught off guard, unprepared for the weather of a given day.  
 
 <br></br>
 Goal: Predict the presence of precipitation 1 day in the future.
